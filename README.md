@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![snake gif](https://github.com/mjh0528/mjh0528/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/mjh0528/mjh0528/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **mjh0528/mjh0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
